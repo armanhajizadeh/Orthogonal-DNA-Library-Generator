@@ -33,3 +33,4 @@ If two sequences share 5 identical bases at the same position, their surrounding
 💾 Output:
 The final set of sequences passing all filters is saved to a variable library for downstream use in the design of DNA computing components.
 
+https://github.com/armanhajizadeh/Orthogonal-DNA-Library-Generator/blob/main/Screenshot%202025-05-02%20at%2019.18.55.png
